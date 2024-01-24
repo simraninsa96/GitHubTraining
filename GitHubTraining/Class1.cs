@@ -8,5 +8,6 @@ namespace GitHubTraining
 {
     public class Class1
     {
+        //this is the change has made by a team member a
     }
 }
