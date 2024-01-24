@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitHubTraining
 {
-    public class Class1
+    internal class Class2
     {
-        //this is the change has made by a team member a
-        //this is my 1st change
-        //abcd
     }
 }
